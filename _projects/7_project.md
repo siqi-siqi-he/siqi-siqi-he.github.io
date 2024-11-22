@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: Bachelor Thesis in Computational Geometry
 description: with background image
 img: assets/img/4.jpg
 importance: 1

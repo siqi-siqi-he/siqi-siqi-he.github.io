@@ -3,16 +3,16 @@
     "name": "Siqi He",
     "label": "Mathematician & Data Scientist",
     "image": "",
-    "email": "siqisiqihe@gmail.com",
-    "phone": "+41764037015",
-    "url": "siqi-siqi-he.github.io",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "Most of the time in a Boulangerie",
-      "postalCode": "75017",
-      "city": "Paris",
-      "countryCode": "FR",
-      "region": "Ile de France"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -24,19 +24,19 @@
   },
   "work": [
     {
-      "name": "Underwriting Data Scientist",
-      "position": "Underwriting Data Scientist",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
-      "startDate": "2024-11-01",
-      "endDate": "ongoing",
-      "summary": "Havent started yet.",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
-      "organization": "Teaching",
-      "location": "China",
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "ETH Zurich, Zurich, Switzerland",
+      "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
-      "url": "https://www.eth.ch/",
-      "area": "Mathematics",
-      "studyType": "Master's Degree",
-      "startDate": "2019-09-01",
-      "endDate": "2022-09-01",
-      "score": "unknown",
-      "courses": ["Operations Research, Machine Learning Theory, Combinatorics"]
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -151,18 +151,13 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
-    }
-        {
-      "language": "French",
-      "fluency": "Beginner (A1)",
       "icon": ""
     }
   ],
